@@ -3,9 +3,9 @@
 
 ---
 
-- 🔭 I’m currently working on: [Lost/Found/Adoption Pet Web Page](https://github.com/oconsl/GlobalLearning-Final)
+- 🔭 I’m currently working on: Discord Bot integration for a Full Stack Development course for **Global Learning**.
 
-- 🌱 I’m currently learning: **Deno, TypeScript, React Native, Angular, Jest, Mocha, Chai, Redux, PostgreSQL, Socket.io.**
+- 🧠 Working with: **JavaScript, TypeScript, React, Vue, Node, Adonis, Jest, Zustand, PostgreSQL, MongodDB, Redis, Socket.io**.
 
 - 📫 How to reach me: **ocon.santiago@gmail.com**
 
