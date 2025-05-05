@@ -4,7 +4,6 @@
   
 > *"Turning coffee into code from Argentina"*
 
-[![Visitors](https://komarev.com/ghpvc/?username=ocon-santiago&label=Profile%20Visitors&color=blueviolet&style=flat)](https://github.com/ocon-santiago)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago_Ocón-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ocon-santiago)
 [![Email](https://img.shields.io/badge/Email-ocon.santiago@gmail.com-D14836?style=flat&logo=gmail)](mailto:ocon.santiago@gmail.com)
 
@@ -39,17 +38,17 @@ const Santiago = {
   },
   
   skills: {
-    languages: () => ["JavaScript", "TypeScript", "HTML", "CSS", "Java"].map(lang => `${lang}♥`),
+    languages: () => ["JavaScript", "TypeScript", "Rust", "Flutter"].map(lang => `${lang}♥`),
     
     frontend: {
-      frameworks: ["React", "Vue"],
-      styling: ["SASS", "Bootstrap", "CSS-in-JS"],
+      frameworks: ["React", "Vue", "Astro"],
+      styling: ["Tailwind", "CSS", "CSS-in-JS"],
       stateOfMind: Math.random() > 0.5 ? "centered" : "questioning life choices"
     },
     
     backend: {
       runtime: "Node.js",
-      frameworks: ["Express", "Adonis"],
+      frameworks: ["Nest", "Express", "Adonis"],
       databases: {
         relational: ["PostgreSQL"],
         noSQL: ["MongoDB"],
@@ -58,9 +57,9 @@ const Santiago = {
       }
     },
     
-    testing: ["Jest", "Mocha", "Trial & Error"],
+    testing: ["Vitest","Jest", "Mocha", "Playwright", "Trial & Error"],
     
-    tools: ["Git", "VSCode", "Postman", "StackOverflow"],
+    tools: ["Git", "VSCode", "Postman", "StackOverflow", "AI"],
     
     communication: ["Spanish", "English", "JSON"],
     
@@ -96,7 +95,7 @@ console.log(`Nice to meet you! I have ${Santiago.getExperience()}`);
 
 ## 🔍 About My Repositories
 
-I craft solutions ranging from simple utilities to complex applications. Unfortunately, many of my most interesting projects are in private repositories for clients and companies I've worked with. However, what you'll find public here represents my coding style and problem-solving approach.
+I craft solutions ranging from simple utilities to complex applications. Unfortunately, many of my most interesting projects are in private repositories for clients and companies I've worked with. However, what you'll find public here represents my coding style (very old coding style on most cases) and problem-solving approach.
 
 The public repositories show:
 - Clean architectural patterns
